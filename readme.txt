@@ -3,3 +3,4 @@
 你看到我与之前版本的不同了吗？
 GIT 有一个暂存区！
 Git tracks changes of files.
+My stupid boss still prefers SVN.
